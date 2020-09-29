@@ -15,10 +15,12 @@ python3 blackfox.py
 Debian , Kali, Ubuntu ...
 ```
 sudo apt install unzip
+unzip sqlmap.zip
 ```
 Fedora , CentOs ...
 ```
 sudo yum install unzip
+unzip sqlmap.zip
 ```
 # updates
 ```
