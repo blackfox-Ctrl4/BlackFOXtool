@@ -11,5 +11,13 @@ python3 blackfox.py
 ```
 bash updates.sh
 ```
+# install packages < windows > and run
+```
+pip3 install ipwhois
+pip3 install bs4
+pip3 install requests
+cd BlackFOXtool
+python3 blackfox.py
+```
 # support
 mr.ashcan.developer@gmail.com
