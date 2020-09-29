@@ -1,6 +1,10 @@
 # BlackFOXtool
 BlackFox is basic hacking tool for everyone !
 
+# install < linux && MacOs >
+```
+git clone https://github.com/blackfox-Ctrl4/BlackFOXtool.gitgit clone 
+```
 # install packages < linux > and run
 ```
 cd BlackFOXtool
