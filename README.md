@@ -11,3 +11,5 @@ python3 blackfox.py
 ```
 bash updates.sh
 ```
+# support
+mr.ashcan.developer@gmail.com
