@@ -302,7 +302,7 @@ def leet_transforms(word):
 
 def asks():
     while True:
-        minLength = input('  {}[?]{} Password\'s min length [1] >>> '.format(color.BLUE, color.END)
+        minLength = input('  {}[?]{} Password\'s min length [1] >>> '.format(color.BLUE, color.END))
         if isEmpty(minLength): minLength = 1; break
         else:
             try:
