@@ -11,6 +11,15 @@ cd BlackFOXtool
 bash install.sh
 python3 blackfox.py
 ```
+### unzip sqlmap
+Debian , Kali, Ubuntu ...
+```
+sudo apt install unzip
+```
+Fedora , CentOs ...
+```
+sudo yum install unzip
+```
 # updates
 ```
 bash updates.sh
