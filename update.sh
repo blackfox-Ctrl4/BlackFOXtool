@@ -1,1 +1,1 @@
-pip3 install --upgrade pip
+git clone https://github.com/blackfox-Ctrl4/BlackFOXtool.git
