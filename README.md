@@ -5,7 +5,7 @@ BlackFox is basic hacking tool for everyone !
 ```
 git clone https://github.com/blackfox-Ctrl4/BlackFOXtool.git
 ```
-# install packages < linux > and run
+# install packages < linux && MacOs > and run
 ```
 cd BlackFOXtool
 bash install.sh
