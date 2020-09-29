@@ -1,21 +1,5 @@
-echo "starting downloading python 3 packeges...."
-pip3 install bs4
-echo "--------"
-echo "bs4 Done"
-echo "--------"
-pip3 install requests
-echo "-------------"
-echo "requests Done"
-echo "-------------"
-pip3 install socket
-echo "-----------"
-echo "socket Done"
-echo "-----------"
-pip3 install warnings
-echo "------------"
-echo "warnings Done"
-echo "------------"
-pip3 install ipwhois
-echo "------------"
-echo "ipwhois Done"
-echo "------------"
+read -p "install BlackFox ? [y/n]:" yn
+			case $yn in
+			    [Yy]*) pip3 install bs4 ; pip3 install requests ; pip3 install ipwhois ; echo "[✔] Installing ..."; clear ; python3 blackfox.py ;;
+			    [Nn]*) echo "exit ... " ; exit 1 ;;
+			esac
