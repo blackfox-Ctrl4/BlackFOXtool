@@ -18,9 +18,9 @@ print("""
 x = ("""Tools :
 [1] veiw source of website     [6] sha256
 [2] ip and hostname            [7] encryptm
-[3] whois                      [8]
-[4] ip whois                   [9]
-[5] scan host                  [10]
+[3] whois                      
+[4] ip whois                   
+[5] scan host                  
 * <exit> = exit *              * <help> = help *
 """)
 
@@ -153,7 +153,15 @@ email <blackfox@protonmail.com>
 [2] your ip and hostname <Enter 2 | Enter again | for exit [exit]>
 [3] whois for doamins <Enter 3 | Enter the website | for exit [exit]"""
     print(helpMessage)
+    time.sleep(2)
     sd = input(">>>")
     if(sd == "exit"):
       print("exit ...")
       exit(0)
+    if(sd == "programmer"):
+      print("""===============
+      KerNix3
+      ===============
+mr.ashcan.developer@gmail.com
+    ===============""")
+    time.sleep(3)
