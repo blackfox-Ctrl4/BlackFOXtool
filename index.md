@@ -10,6 +10,6 @@
           <li>Text Encryptio</li>
           <li>port scanner</li>
           <li>ip whois </li>
-          <li> domain whois <li>
+          <li> domain whois </li>
           <li> veiw source of website </li>
           <li> my ip and hostname </li>
