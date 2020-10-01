@@ -3,6 +3,8 @@
 </section>
 # support os
 <p> Linux && MacOs <p>
-<script>
-          alert('BlackFoxTool")
-          </script>
+          
+<h4> one tool for everything !! <h4>
+ <li>password list ( 2 tools )</li>
+  <li> sqlmap </li>
+          <li>Text Encryptio</li>
