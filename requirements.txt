@@ -1,0 +1,4 @@
+nmap
+bs4
+requests
+beautifulsoup4
