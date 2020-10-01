@@ -209,5 +209,5 @@ email : psyrens@protonmail.com
      if(wikiQ == "00"):
         print(Fore.RED+"[!]"+ "Exiting..."+Fore.RED+"[!]")
         exit(0)
-#|____KerNix3____
+#|____KerNix3____|
 #github.com/blackfox-Ctrl4/BlackFOXtool
