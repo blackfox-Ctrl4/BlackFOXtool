@@ -8,7 +8,6 @@ import hashlib
 import os
 import sys
 import webbrowser
-from helplist import helpp
 from modules import sha256
 
 try:
