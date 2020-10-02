@@ -183,7 +183,7 @@ email : psyrens@protonmail.com
     if(sd == "00"):
       print(Fore.RED+"[!]"+ "Exiting..."+Fore.RED+"[!]")
       exit(0)
-  if(toolsSelect == "10"):
+  if(toolsSelect == "8"):
    url = input("Enter the url : ")
    if(url == "00"):
      print(Fore.RED+"[!]"+ "Exiting..."+Fore.RED+"[!]")
