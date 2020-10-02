@@ -8,7 +8,6 @@ import hashlib
 import os
 import sys
 import webbrowser
-from modules import sha256
 
 try:
   from colorama import Fore
