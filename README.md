@@ -27,5 +27,3 @@ unzip sqlmap.zip
 bash updates.sh
 ```
 ## windows not support now !
-# support
-mr.ashcan.developer@gmail.com
